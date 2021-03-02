@@ -1,1 +1,2 @@
 Ahora yo trabajo en Git para mantener seguro mi codigo fuente
+Editado por: Daniel Isaac Reyes Sánchez
